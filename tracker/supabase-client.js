@@ -7,8 +7,8 @@
    ============================================================ */
 
 // ── Fill these in after you create your Supabase project ────
-const SUPABASE_URL = 'https://YOUR-PROJECT.supabase.co';
-const SUPABASE_KEY = 'YOUR-PUBLISHABLE-ANON-KEY';
+const SUPABASE_URL = 'https://urmogokihltpatgkaoqk.supabase.co';
+const SUPABASE_KEY = 'sb_publishable_E15toZhrKE1czkkpmLTi3Q_pNxC_U-z';
 
 const HAS_KEYS = !SUPABASE_URL.includes('YOUR-PROJECT');
 const sb = (window.supabase && HAS_KEYS)
